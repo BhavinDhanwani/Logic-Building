@@ -1,0 +1,2 @@
+variable to looping all topic
+form javaapoint
